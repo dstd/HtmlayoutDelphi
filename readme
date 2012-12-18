@@ -1,0 +1,7 @@
+
+ Delphi binding for HTMLayout
+ ============================
+ 
+ Simple wrappers made for demonstration of piece of HTMLayout to antiquated Delphi developers.
+
+ Implemented a tiny piece of DOM-manipulation methods and behavior event handling.
